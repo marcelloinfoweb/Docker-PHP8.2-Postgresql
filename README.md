@@ -7,4 +7,4 @@
 
 ```# docker compose up -d```
 
-Esse comando irá criar os containners e liberar o terminal.
+Esse comando irá criar os containers e liberar o terminal.
